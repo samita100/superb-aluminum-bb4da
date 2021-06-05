@@ -1,6 +1,6 @@
 ---
 title: About Me (Anti-Lorem Ipsum)
-subtitle: This is a short page about me and my work
+subtitle: 'This is a short page about me and my work. Basically, I am Awesome **not.'
 img_path: images/about.jpg
 img_alt: A man standing on a rock outside the cave
 seo:
